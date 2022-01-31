@@ -1,0 +1,4 @@
+#Правильные имена
+
+let ourPlanetName = "Земля";
+let currentUserName = "Алина";
